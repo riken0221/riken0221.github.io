@@ -47,3 +47,25 @@ a{
 .social-icons .social-icon:hover {
     background-color: var(--bs-secondary);
 }
+
+table{
+    width: 100%;
+}
+
+th,td{
+    text-align:left;
+    border: 3px solid black;
+}
+
+th:nth-child(odd){
+    padding: 10px;
+    border: 1px
+    color:#ffffff;
+    background-color: #4e0537;
+}
+
+td:nth-child(odd){
+    color:#ffffff;
+    background-color: #7c0166;
+}
+
