@@ -58,8 +58,6 @@ th,td{
 }
 
 th:nth-child(odd){
-    padding: 10px;
-    border: 1px
     color:#ffffff;
     background-color: #4e0537;
 }
